@@ -1,0 +1,1 @@
+// App.jsx: será completado a continuación
